@@ -55,7 +55,7 @@ A few important things to note:  you will have to run common ground from the ext
 
 It is best to physically line up the appropriate LEDs with their matching push buttons, to avoid confusion on the player's part.
 
-The game expects to communicate with certain ports on the MSP430 board for lighting LEDs, and reading player input from the push buttons.  Consult the header file ((SimonGame.h)[SimonGame.h]) for information on which ports are tied to which LEDs and buttons.  Consult the schematics for the MSP430 board for more information on where the ports are physically located on the board.
+The game expects to communicate with certain ports on the MSP430 board for lighting LEDs, and reading player input from the push buttons.  Consult the header file ([SimonGame.h](SimonGame.h)) for information on which ports are tied to which LEDs and buttons.  Consult the schematics for the MSP430 board for more information on where the ports are physically located on the board.
 
 ![Simon Game Circuit Diagram](https://github.com/violetRob/SimonGame/blob/main/Simon%20Game%20External%20Circuitry.PNG)
 
